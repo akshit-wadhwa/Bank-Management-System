@@ -1,0 +1,21 @@
+C:\Users\akshi\source\repos\Bank App\Bank App\bin\Debug\Bank App.exe.config
+C:\Users\akshi\source\repos\Bank App\Bank App\bin\Debug\Bank App.exe
+C:\Users\akshi\source\repos\Bank App\Bank App\bin\Debug\Bank App.pdb
+C:\Users\akshi\source\repos\Bank App\Bank App\bin\Debug\EntityFramework.dll
+C:\Users\akshi\source\repos\Bank App\Bank App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\akshi\source\repos\Bank App\Bank App\bin\Debug\EntityFramework.xml
+C:\Users\akshi\source\repos\Bank App\Bank App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\akshi\source\repos\Bank App\Bank App\obj\Debug\Bank App.csproj.AssemblyReference.cache
+C:\Users\akshi\source\repos\Bank App\Bank App\obj\Debug\Bank_App.Login_form.resources
+C:\Users\akshi\source\repos\Bank App\Bank App\obj\Debug\Bank_App.Properties.Resources.resources
+C:\Users\akshi\source\repos\Bank App\Bank App\obj\Debug\Bank App.csproj.GenerateResource.cache
+C:\Users\akshi\source\repos\Bank App\Bank App\obj\Debug\Bank App.csproj.CoreCompileInputs.cache
+C:\Users\akshi\source\repos\Bank App\Bank App\obj\Debug\Bank App.csproj.Up2Date
+C:\Users\akshi\source\repos\Bank App\Bank App\obj\Debug\Bank App.exe
+C:\Users\akshi\source\repos\Bank App\Bank App\obj\Debug\Bank App.pdb
+C:\Users\akshi\source\repos\Bank App\Bank App\obj\Debug\Bank_App.Menu.resources
+C:\Users\akshi\source\repos\Bank App\Bank App\obj\Debug\Bank_App.newAccount.resources
+C:\Users\akshi\source\repos\Bank App\Bank App\obj\Debug\Bank_App.UpdationForm.resources
+C:\Users\akshi\source\repos\Bank App\Bank App\obj\Debug\Bank_App.CustomerList.resources
+C:\Users\akshi\source\repos\Bank App\Bank App\obj\Debug\Bank_App.CreditForm.resources
+C:\Users\akshi\source\repos\Bank App\Bank App\obj\Debug\Bank_App.DebitForm.resources
